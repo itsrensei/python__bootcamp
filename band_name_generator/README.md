@@ -1,6 +1,6 @@
 # Band Name Generator
 
-![Banner](/band_name.png)
+![Banner](/img/band_name.png)
 
 
 ## Project Overview
