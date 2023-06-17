@@ -1,5 +1,7 @@
 # Python Programming 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+<div align="center">
+    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
+</div>
 
 Welcome to the Python comprehensive course created by Dr. Angela Yu That is helping me learn and master Python programming.
 
@@ -30,8 +32,8 @@ The course is divided into 15 sections, with each section focusing on specific t
 
 If you have any feedback or would like to work on a project, please reach out to me on 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itsresei.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsrensei_dev)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsrensei)
 
 
